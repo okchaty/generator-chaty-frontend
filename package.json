@@ -1,0 +1,27 @@
+{
+  "name": "generator-chaty-frontend",
+  "version": "1.0.0",
+  "description": "Chaty frontend Yo generator",
+  "homepage": "https://chaty.io",
+  "authors": {
+    "name": "Chaty , Frontend Team",
+    "url": "https://github.com/okchaty/generator-chaty-frontend"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "Chaty",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "mkdirp": "^1.0.3",
+    "slugify": "^1.3.6",
+    "yeoman-generator": "^4.5.0",
+    "yosay": "^2.0.2"
+  },
+  "repository": "https://github.com/okchaty/generator-chaty-frontend",
+  "license": "MIT"
+}
